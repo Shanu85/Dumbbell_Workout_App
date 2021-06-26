@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dumbbellworkout">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Custom_Workouts.custom_workout_activity" />
+        <activity android:name=".Custom_Workouts.training_info_activtity"/>
+        <activity android:name=".Custom_Workouts.new_training_save"/>
+        <activity android:name=".startWorkout_activity" />
+        <activity android:name=".Custom_Workouts.all_db_training"/>
+        <activity
+            android:name=".MainActivity"
+            android:label="Dumbbells Workout">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SelectWorkoutActivity"
+            android:label="Select Workout" />
+        <activity
+            android:name=".Challenge.daily_challenges"
+            android:label="Dumbbells Workout">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

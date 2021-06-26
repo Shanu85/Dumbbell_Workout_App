@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Dumbbell Workout</string>
+    <string name="workouts">Workouts</string>
+    <string name="complete_sets">Complete sets</string>
+    <string name="challenge">Challenge</string>
+    <string name="new_challenge">New challenge every day</string>
+    <string name="custom_workouts">Custom Workouts</string>
+    <string name="make_your_own_workout">Make your own workout</string>
+    <string name="days_done">Days Done :</string>
+    <string name="zero">0</string>
+    <string name="calories_lost">Calories Lost :</string>
+    <string name="level">Level :</string>
+    <string name="workoutname">Workout Name</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="time_count_for_one_exercise">Time/count for one exercise: </string>
+    <string name="_30">30</string>
+    <string name="sec">sec</string>
+    <string name="prepare_time">Prepare Time: </string>
+    <string name="_10">10</string>
+    <string name="number_of_rounds">Number of Rounds</string>
+    <string name="_1">1</string>
+    <string name="rounds">rounds</string>
+    <string name="rest_between_rounds">Rest between rounds</string>
+    <string name="_1_0">1:0</string>
+    <string name="min">min</string>
+    <string name="total_time">Total time:</string>
+    <string name="_0">0 min</string>
+    <string name="_0_">0</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="change">Change</string>
+    <string name="exercises">exercises</string>
+    <string name="_0_exercises">0 exercises</string>
+</resources>

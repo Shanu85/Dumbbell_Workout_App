@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "822581893441",
+    "firebase_url": "https://dumbbellworkout-e2fbb-default-rtdb.firebaseio.com",
+    "project_id": "dumbbellworkout-e2fbb",
+    "storage_bucket": "dumbbellworkout-e2fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822581893441:android:1aaf2390f33031bb69e9c0",
+        "android_client_info": {
+          "package_name": "com.example.dumbbellworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822581893441-7n8tgjdp0m5guskab74i8vaarpo6mdag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50mvyHHMOBX48zQYRAL5CrlMUvpGt61Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822581893441-7n8tgjdp0m5guskab74i8vaarpo6mdag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822581893441:android:d37e95b3c683b3fe69e9c0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822581893441-7n8tgjdp0m5guskab74i8vaarpo6mdag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50mvyHHMOBX48zQYRAL5CrlMUvpGt61Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822581893441-7n8tgjdp0m5guskab74i8vaarpo6mdag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

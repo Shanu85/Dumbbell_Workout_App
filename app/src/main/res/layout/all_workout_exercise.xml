@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:id="@+id/all_workout_exerciseParent"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="10dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/workout_exercise_image"
+            android:layout_margin="5dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exercise_name"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id="@+id/workout_exercise_nameTxt"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="30dp"
+            android:layout_toEndOf="@+id/workout_exercise_image"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/orange"
+            android:textSize="20sp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/workout_exercise_nameTxt"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="10dp"
+            android:id="@+id/workout_no_rounds"
+            />
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>
